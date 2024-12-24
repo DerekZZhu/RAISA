@@ -1,0 +1,5 @@
+*json
+./data/*.json
+data/data.csv
+data/data_multiclass.csv
+scparse2.ipynb
