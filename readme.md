@@ -8,4 +8,6 @@ Artificially intelligent constructs (**AICS**) have been serving the foundation 
 Data reports can be found in the repo and weights can be found in the weights section below, as they are very large, they have been uploaded to Huggingface to save space.
 
 ## Weights
-https://huggingface.co/DerekZ/SCP-Classifier
+https://huggingface.co/DerekZ/SCP-Classifier - roBerta
+
+## Results
